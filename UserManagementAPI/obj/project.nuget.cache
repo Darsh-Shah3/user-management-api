@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WIqcjFTCRBc=",
+  "success": true,
+  "projectFilePath": "D:\\.net\\UserManagementAPI\\UserManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darsh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\Darsh\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
