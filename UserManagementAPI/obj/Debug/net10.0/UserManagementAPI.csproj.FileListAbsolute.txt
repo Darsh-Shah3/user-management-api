@@ -31,3 +31,4 @@ D:\.net\UserManagementAPI\obj\Debug\net10.0\refint\UserManagementAPI.dll
 D:\.net\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.pdb
 D:\.net\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.genruntimeconfig.cache
 D:\.net\UserManagementAPI\obj\Debug\net10.0\ref\UserManagementAPI.dll
+D:\.net\UserManagementAPI\obj\Debug\net10.0\UserManagementAPI.sourcelink.json
